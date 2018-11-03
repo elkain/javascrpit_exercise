@@ -12,7 +12,7 @@
             "name": "Launch html",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/chapter3/basic_type.html"
+            "file": "${workspaceFolder}/chapter3/number_type.html"
         },
     ]
 }
