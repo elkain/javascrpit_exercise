@@ -9,10 +9,10 @@
             "webRoot": "${workspaceFolder}/wwwroot"
         },
         {
-            "name": "Launch index.html",
+            "name": "Launch html",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/index.html"
+            "file": "${workspaceFolder}/chapter3/basic_type.html"
         },
     ]
 }
