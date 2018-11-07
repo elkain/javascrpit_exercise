@@ -7,4 +7,4 @@ emptyArr[0] = 100;
 emptyArr[3] = 'eight';
 emptyArr[7] = true;
 console.log(emptyArr);          // (출력값) [100, undefined, undefined, "eight", undefined, undefined, undefined, true]
-console.log(emptyArr.length);      // (출력값) 8
+console.log(emptyArr.length);   // (출력값) 8
