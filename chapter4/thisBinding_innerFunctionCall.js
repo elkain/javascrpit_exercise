@@ -1,4 +1,6 @@
 // 내부함수의 this 바인딩 동작을 보여주는 예제 코드
+
+// 전역 변수 value 정의
 var value = 100;
 
 // myObject 객체 생성
