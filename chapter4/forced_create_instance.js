@@ -1,6 +1,6 @@
 function A(arg){
-    if(!(this instanceof A)){
-        return new A(arg);
+    if(!(this instanceof arguments.callee)){
+        return new arguments.callee(arg);
     }
 
     this.value = arg ? arg:0;
